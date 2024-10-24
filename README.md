@@ -15,7 +15,7 @@ The dataset used in this project relates to obesity levels determined by persona
 - **Eating Habits** (e.g., frequency of vegetable and fast food consumption)
 - **Physical Activity Levels**
 
-This dataset is publicly available and can be accessed [here](provide-dataset-link).
+This dataset is publicly available and can be accessed [here](https://www.kaggle.com/datasets/jpkochar/obesity-risk-dataset).
 
 ## Model Performance
 
