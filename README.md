@@ -1,1 +1,1 @@
-# Obesity---classification
+# Obesity-classification
