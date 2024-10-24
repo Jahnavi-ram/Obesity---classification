@@ -15,7 +15,8 @@ The dataset used in this project is related to obesity levels based on personal 
 - Eating Habits (e.g., frequency of consumption of vegetables, fast food)
 - Physical Activity Levels
 
-This dataset is publicly available and can be found here - Obesity
+This dataset is publicly available and can be found [here]([https://www.kaggle.com/datasets/jpkochar/obesity-risk-dataset]).
+
 
 ## Dependencies
 - Python 3.x
