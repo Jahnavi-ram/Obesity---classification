@@ -3,7 +3,7 @@
 ## Overview
 This project aims to classify obesity levels based on various features like BMI, age, weight, etc. The project compares the performance of different machine learning models including Logistic Regression, Random Forest, Gradient Boosting, XGBoost, and SVM.
 
-## Dataset [https://www.kaggle.com/datasets/jpkochar/obesity-risk-dataset]
+## Dataset 
 
 The dataset used in this project is related to obesity levels based on personal attributes and habits. It contains multiple features such as:
 
@@ -16,7 +16,6 @@ The dataset used in this project is related to obesity levels based on personal 
 - Physical Activity Levels
 
 This dataset is publicly available and can be found [here](https://www.kaggle.com/datasets/jpkochar/obesity-risk-dataset).
-
 
 
 ## Dependencies
